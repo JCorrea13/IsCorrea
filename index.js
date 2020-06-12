@@ -1,5 +1,5 @@
 function isCorrea (input) {
-  return input === 'Correa'
+  return input === 'Correaq'
 }
 
 module.exports = isCorrea
