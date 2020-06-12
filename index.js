@@ -1,5 +1,5 @@
-function isCorrea (input) {
+function isCorrea1 (input) {
   return input === 'Correa'
 }
 
-module.exports = isCorrea
+module.exports = isCorrea1
